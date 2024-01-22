@@ -1,6 +1,6 @@
 # Herbarium 2022 - FGVC9 Competition Solution
 
-![Herbarium](https://i.postimg.cc/15qZZfvt/My-Post.jpg)](https://postimg.cc/Xp4Pf7SS)
+[![Herbarium](https://i.postimg.cc/15qZZfvt/My-Post.jpg)](https://postimg.cc/Xp4Pf7SS)
 
 This repository contains the code, paper, and poster for our solution to the [Herbarium 2022 - FGVC9 competition](https://sites.google.com/view/fgvc9/competitions/herbariumchallenge2022?authuser=0). The competition involves identifying plant species through herbarium sheets. Our paper provides a detailed explanation of the solution adopted, along with a study of the machine learning field that comprises it.
 
