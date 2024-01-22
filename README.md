@@ -6,7 +6,11 @@ This repository contains the code, paper, and poster for our solution to the [He
 
 ## Abstract
 
-This is where this paper comes in, a solution to the Herbarium 2022 - FGVC9 competition. It consists of identifying plant species through herbarium sheets. This paper details the solution adopted, as well as a study of the machine learning field that comprises it.
+Plants are of fundamental importance to life on Earth. With the threat of climate
+change advancing, new ideas are needed to combat it. This is where this paper
+comes in, a solution to the Herbarium 2022 - FGVC9 competition. It consists of
+identifying plant species through herbarium sheets. This paper details the solution
+adopted, as well as a study of the machine learning field that comprises it.
 
 ## Files Overview
 
